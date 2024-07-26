@@ -14,9 +14,13 @@
   </p>
   
 ## Demo
+<!--
 [<img align="top" src="https://weather-readme.vercel.app/api/weather" alt="Weather" width="100%"/>](https://openweathermap.org/city/1185098)
+-->
 
-Demo URL: `https://weather-readme.vercel.app/api/weather`
+<img align="top" alt="Weather" width="80%" src="https://github-readme-weather-widget.vercel.app" alt="weather-local">
+
+Demo URL: `https://github-readme-weather-widget.vercel.app`
 
 
 ## Workflow 
