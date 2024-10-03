@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>结果</title>
+</head>
+<body>
+    <h1>最低费用: {{ cost }} 公里</h1>
+    <h2>路线:</h2>
+    <ul>
+        {% for city in route %}
+            <li>{{ city }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">返回</a>
+</body>
+</html>
